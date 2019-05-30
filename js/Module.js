@@ -23,8 +23,6 @@ class Module {
     }
 }
 
-
-window.Adoric = window.Adoric || {};
 window.Modules = window.Modules || new Map();
 
 window.Modules.set('Module', Module);
